@@ -1,0 +1,22 @@
+{
+  "name": "ageha-dev/gearsframework",
+  "description": "Gears Framework based on Middleware",
+  "license": "BSD-3-Clause",
+  "type": "library",
+  "require": {
+    "php": ">=5.4",
+    "ageha-dev/gears-core": "dev-master",
+    "ageha-dev/view-manager-gear": "dev-master",
+    "ageha-dev/route-listener-gear": "dev-master",
+    "ageha-dev/gears-db": "dev-master",
+    "ageha-dev/gears-view-models": "dev-master",
+    "ageha-dev/gears-service-manager": "dev-master",
+    "ageha-dev/gears-http": "dev-master"
+  },
+  "autoload": {
+    "psr-0": {
+      "GearsCore": "src/"
+    }
+  },
+  "minimum-stability" :"dev"
+}

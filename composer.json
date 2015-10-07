@@ -6,8 +6,8 @@
   "require": {
     "php": ">=5.4",
     "ageha-dev/gears-core": "dev-master",
-    "ageha-dev/view-manager-gear": "dev-master",
-    "ageha-dev/route-listener-gear": "dev-master",
+    "ageha-dev/gears-view-manager-gear": "dev-master",
+    "ageha-dev/gears-route-listener-gear": "dev-master",
     "ageha-dev/gears-db": "dev-master",
     "ageha-dev/gears-view-models": "dev-master",
     "ageha-dev/gears-service-manager": "dev-master",

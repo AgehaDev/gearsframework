@@ -12,7 +12,8 @@
     "ageha-dev/gears-view-models": "dev-master",
     "ageha-dev/gears-service-manager": "dev-master",
     "ageha-dev/gears-http": "dev-master",
-    "ageha-dev/gears-controller-manager-gear":"dev-master"
+    "ageha-dev/gears-controller-manager-gear":"dev-master",
+    "ageha-dev/gears-session-gear":"dev-master"
   },
   "autoload": {
     "psr-0": {
